@@ -84,7 +84,7 @@ const Home: NextPage = () => {
             color: "#6a0dad",
             draggable: true
           }).setLngLat([7.79, 48.59]).addTo(Map)}>Button</button> */}
-
+          <div>Cliquer sur la map pour ajouter un point. Les coordonnées sont loguées dans la console</div>
         </div>
       </div>
 
