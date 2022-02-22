@@ -2,9 +2,12 @@
 # tut_nextjs-mapbox
 #### Learning more about mapbox-gl in a Nextjs project
 
+npm install 
+
 'mapboxToken.tsx' file is ignored. rename the file 'mapboxToken_example.tsx' and add your API token.
 -> export const mapboxToken = 'pasteyourtokenhere'
 
+npm run dev
 
 -------------------------
 
